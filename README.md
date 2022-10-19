@@ -1,6 +1,7 @@
-<img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://static.wikia.nocookie.net/memes-pedia/images/5/51/NPCwojak.jpg/revision/latest/top-crop/width/360/height/360?cb=20210119023219&path-prefix=es)" 
+<img src="(https://upload.wikimedia.org/wikipedia/en/1/1b/NPC_wojak_meme.png)" 
      width="50" 
      height="50" /> Hola, mi nombre es Arnau Merin 👋
+     
 ### 3D Modeler
 
 Soy ingeniero de software profesional desde hace más de doce años.
