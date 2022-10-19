@@ -28,8 +28,12 @@ Cursando grado superior de modelaje 3D en CEV.
 [![Adobe-After-Effects](https://img.shields.io/badge/After-9999FF?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white&labelColor=101010)]()
 [![Adobe-Audition](https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=Adobe-Audition&logoColor=white&labelColor=101010)]()
 [![Adobe-Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&labelColor=101010)]()
+[![Adobe-Premiere](https://img.shields.io/badge/Premiere-31A8FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white&labelColor=101010)]()
+</br>
+[![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
 
-#
+
+
 Y alguna más...
 
 ## Encuéntrame en:
