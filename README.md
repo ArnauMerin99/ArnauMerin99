@@ -32,8 +32,6 @@ Cursando grado superior de modelaje 3D en CEV.
 </br>
 [![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
 
-
-
 Y alguna más...
 
 ## Encuéntrame en:
