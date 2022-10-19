@@ -1,8 +1,13 @@
-<img src="(https://upload.wikimedia.org/wikipedia/en/1/1b/NPC_wojak_meme.png)" 
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1b/NPC_wojak_meme.png" 
      width="50" 
      height="50" /> Hola, mi nombre es Arnau Merin 👋
      
 ### 3D Modeler
+
+<a href="https://www.artstation.com/arnaumerin">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/050/489/039/large/arnaldo-draws-1b-arnaumerin-final-002.jpg?1655207602">
+	</a>
+
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
