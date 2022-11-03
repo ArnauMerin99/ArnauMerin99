@@ -1,8 +1,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/NPC_wojak_meme.png" 
-     width="50" 
-     height="50" /> Hola, mi nombre es Arnau Merin 👋
+     width="30" 
+     height="30" /> Hola, mi nombre es Arnau Merin :space_invader:
      
-### Programer and 3D modeler
+# 3D modeler
+##### also i like programming :D
 
 <a href="https://www.artstation.com/arnaumerin">
 
@@ -34,3 +35,59 @@ Cursando grado superior de modelaje 3D en CEV.
 [![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
 
 Y alguna más...
+
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://youtu.be/MyzZnIR5gC4">
+  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/P6ko_I5GHbs">
+  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/hGIzLGgf3Bo">
+  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="https://youtu.be/BQaxPwZWboA">
+  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/ebQphhLpJG0">
+  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	</a>
+	</td>
+   <td>
+	<a href="https://youtu.be/X5fjEEmXR2s">
+  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+    <tr>
+    <td>
+	<a href="https://youtu.be/1IpkZhkPC_I">
+  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/HH7U3tA0S8M">
+  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
+	</a>
+	</td>
+   <td>
+	<a href="https://youtu.be/vhrus08jp6s">
+  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+</table>
+</table>
+
