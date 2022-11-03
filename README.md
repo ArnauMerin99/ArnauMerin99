@@ -49,7 +49,7 @@ Y alguna más...
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
+	<a href="https://www.artstation.com/artwork/03D06w">
   		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
 	</a>
 	</td>
