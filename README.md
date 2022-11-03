@@ -45,24 +45,24 @@ Y alguna más...
 	</td>
     <td>
 	<a href="https://www.artstation.com/artwork/2qb0oB">
-  		<img src="https://user-images.githubusercontent.com/114000254/199812868-d2870b0c-19de-4c0b-bf52-c706ec7622dc.png">
+  		<img src="https://github.com/ArnauMerin99/ArnauMerin99/blob/main/inca_01.png">
 	</a>
 	</td>
     <td>
 	<a href="https://www.artstation.com/artwork/03D06w">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+  		<img src="https://github.com/ArnauMerin99/ArnauMerin99/blob/main/CaveWoman_01.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/X1bnvD">
+  		<img src="https://github.com/ArnauMerin99/ArnauMerin99/blob/main/alien_01.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/qQOGny">
+  		<img src="https://github.com/ArnauMerin99/ArnauMerin99/blob/main/pistol_01.jpg">
 	</a>
 	</td>
    <td>
