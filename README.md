@@ -39,13 +39,13 @@ Y alguna más...
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img sapo_01.png">
+	<a href="https://www.artstation.com/artwork/lR83B5">
+  		<img src= "https://github.com/ArnauMerin99/ArnauMerin99/blob/main/sapo_01.jpg">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/2qb0oB">
+  		<img src="https://user-images.githubusercontent.com/114000254/199812868-d2870b0c-19de-4c0b-bf52-c706ec7622dc.png">
 	</a>
 	</td>
     <td>
