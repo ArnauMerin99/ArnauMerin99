@@ -40,7 +40,7 @@ Y alguna más...
   <tr>
     <td>
 	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+  		<img sapo_01.png">
 	</a>
 	</td>
     <td>
