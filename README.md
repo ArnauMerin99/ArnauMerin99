@@ -36,6 +36,9 @@ Cursando grado superior de modelaje 3D en CEV.
 
 Y alguna más...
 
+## Algunos trabajos publicados. 
+siempre mejorando.
+
 <table style="width:100%">
   <tr>
     <td>
@@ -66,25 +69,8 @@ Y alguna más...
 	</a>
 	</td>
    <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/NGEBVD">
+  		<img src="https://github.com/ArnauMerin99/ArnauMerin99/blob/main/jessika_01.jpg">
 	</a>
 	</td>
   </tr>
